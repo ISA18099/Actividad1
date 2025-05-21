@@ -34,7 +34,7 @@ questions = [
         "answer": 0
     },
     {
-        "question": "3. ¿Cuál es el resultado de este código?
+        "question": "3. ¿Cuál es el resultado de este código?"
 ```python
 x = 0
 while x < 3:
