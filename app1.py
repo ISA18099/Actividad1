@@ -148,7 +148,7 @@ if submitted:
         st.warning("🔄 Puedes repasar los conceptos y volver a intentarlo.")
 
 # --- Instrucciones de despliegue (para tu GitHub) ---
-st.markdown("""---  
+st.markdown("""---""") 
 #### ¿Cómo desplegar esta app desde GitHub en Streamlit?
 1. Crea un repositorio en GitHub y sube este archivo como `app.py`.  
 2. Añade un `requirements.txt` con el siguiente contenido:  
