@@ -34,13 +34,13 @@ questions = [
         "answer": 0
     },
     {
-        "question": "3. ¿Cuál es el resultado de este código?"
+        "question": "3. ¿Cuál es el resultado de este código?
 ```python
 x = 0
 while x < 3:
     print(x)
     x += 1
-```,
+```",
         "options": [
             "1 2 3", "0 1 2", "0 1 2 3", "x x x"
         ],
